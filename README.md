@@ -5,7 +5,7 @@ You need to have MySQL installed in your system.
 
 2) Then to use this database type USE Conference_View.
 
-3) Then Create tables using create table syntax. For appropriate syntax see file SQLQuery.sql 
+3) Then Create tables using create table syntax. For appropriate syntax see file query.sql 
 
 4) We then insert values using insert command.For appropriate syntax see SQLQuery1.sql,SQLQuery2.sql,SQLQuery3.sql 
 
