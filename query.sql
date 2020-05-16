@@ -14,6 +14,9 @@ DROP TABLE dbo.author;
 ALTER TABLE author
 ADD PRIMARY KEY(EmailAddress);
 
+ ALTER TABLE Paper
+ADD FOREIGN KEY(Author_Email) REFERENCES author(EmailAddress);
+
 Create table Reviewer
 (R_Email  Varchar(60) NOT NULL PRIMARY KEY,
 FirstName Char(20),
