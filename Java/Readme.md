@@ -1,6 +1,6 @@
 IMPORT INSTRUCTIONS TO RUN THIS APPLICATION:
 
-1) Download the database provided in this folder.
+1) Download the database provided in this folder named CONFERENCE_REVIEW.sql.
 2) You must use SQL SERVER MANAGEMENT STUDIO and Eclipse for this application to run.
 3) Make sure to download the correct JBCD drivers and myssql-jdbc-auth-8.dll file in your mysql folder.
 4) Download the file and then create new java project. 
